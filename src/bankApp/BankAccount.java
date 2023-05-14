@@ -5,4 +5,5 @@ public interface BankAccount {
 	// Add money
 	// check balance
 	// check rate of interest
+	// get final interest
 }
